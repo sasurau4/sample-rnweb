@@ -1,0 +1,25 @@
+{
+  "name": "sample-svgs-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/runtime": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-react-native-web": "^0.11.4",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native-web": "^0.11.4",
+    "svgs": "^4.1.0",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.4",
+    "webpack-dev-server": "^3.7.1"
+  }
+}
